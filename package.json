@@ -1,5 +1,5 @@
 {
-  "name": "react-component-library",
+  "name": "gridx-components-library",
   "version": "1.0.0",
   "description": "Reusable React components library template",
   "main": "dist/index.js",
