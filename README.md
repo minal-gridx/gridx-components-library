@@ -1,5 +1,4 @@
-# React Components Library Template
-A template for creating a reusable React component library.
+# React Components Library
 
 ## Developing
     yarn install
